@@ -7,7 +7,7 @@
     top: 50%;
     left: 50%;
     transform: translate(-50%,-50%);
-    background-color: rgba(0, 0, 0, 0.6);
+    background-color: rgba(179, 140, 140, 0.6);
     padding: 15px;
     border-radius: 15px;
     }
@@ -15,8 +15,4 @@
     top: 50%;
     left: 50%;
     transform: translate(-50%,-50%);
-    background-image: linear-gradient(to right, rgb(63, 216, 109), rgb(170, 167, 179));
-    font-size: larger;
-    border: 5px;
-    border-color: brown;
     }
